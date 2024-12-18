@@ -63,3 +63,9 @@ The tool handles the following potential error conditions:
 ## 8. Conclusion
 
 This document describes the technical specifications of a URL to IP address resolution tool. By following these guidelines, a robust and user-friendly tool can be created for various network-related tasks.
+
+## 9. Installation:
+* **Step 1: git clone https://github.com/swasthik-moolya/HIP.git**
+* **Step 2: cd HIP**
+* **Step 3: for Linux: sudo apt install urllib3 && sudo apt install socket** or **for Windows: pip install urllib3**
+* **Step 4: python3 main.py**
