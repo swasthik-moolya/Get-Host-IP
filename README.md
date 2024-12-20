@@ -1,7 +1,7 @@
-# HIP
-# Technical Documentation: URL to Host IP Address Resolution Tool
+# Get Host IP
+# Technical Documentation: Get Host IP Tool
 
-This document describes a tool designed to resolve URLs to their corresponding IP addresses. This functionality is essential for network analysis, security assessments, and understanding the underlying infrastructure of web resources.
+This document describes a tool designed to resolve URLs to their corresponding Host IP addresses. This functionality is essential for network analysis, security assessments, and understanding the underlying infrastructure of web resources.
 
 ## 1. Introduction
 
